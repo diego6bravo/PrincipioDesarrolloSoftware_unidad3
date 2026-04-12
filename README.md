@@ -14,5 +14,9 @@ En esta unidad se trabajó la configuración de un entorno de desarrollo profesi
 ## 🚀 Guía de Uso
 
 ### 1. Clonar el proyecto
-Para obtener una copia exacta del proyecto en tu máquina local, se utilizó:
-git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+Para obtener una copia exacta del proyecto en tu máquina local, escribe el siguiente comando en tu terminal:
+```git clone [https://github.com/diego6bravo/PrincipioDesarrolloSoftware_unidad3/edit/main/README.md](https://github.com/diego6bravo/PrincipioDesarrolloSoftware_unidad3/edit/main/README.md)```
+
+### 2. Contribuir
+Si quieres contribuir a este proyecto te invitamos a que realices un *fork* del mismo y trabajes cambios desde allí. Posteriormente puedes enviar un *pull request* para que revisemos tus cambios y los podamos incluir en este proyecto.
+
